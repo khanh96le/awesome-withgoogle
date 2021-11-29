@@ -8,6 +8,7 @@ A list of .google and .withgoogle domains
 - [buildyourfuture.withgoogle.com](https://buildyourfuture.withgoogle.com): We're here to help you get one step closer to your future
 - [atozofai.withgoogle.com](https://atozofai.withgoogle.com): This A-Z guide offers a series of simple, bite-sized explainers to help anyone understand what AI is, how it works and how it’s changing the world around us
 - [thinkwithgoogle.com](https://www.thinkwithgoogle.com): Creative insight, inspiration, and tools to help you make effective campaigns with Google.
+- [economysea.withgoogle.com](https://economysea.withgoogle.com): Download the e-Conomy 2021 report to get latest news of SEA's digital economy.
 
 ## .google
 
